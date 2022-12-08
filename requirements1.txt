@@ -5,7 +5,7 @@ bokeh @ file:///D:/bld/bokeh_1620738569931/work
 Bottleneck @ file:///D:/bld/bottleneck_1611195728907/work
 brotlipy==0.7.0
 Cartopy @ file:///D:/bld/cartopy_1620189070403/work
-certifi==2020.12.5
+certifi==2022.12.7
 cffi @ file:///D:/bld/cffi_1613414140225/work
 cftime @ file:///D:/bld/cftime_1612246574930/work
 chardet @ file:///D:/bld/chardet_1610093646853/work
